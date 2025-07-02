@@ -1,0 +1,170 @@
+Sprint Review - Cider
+June 5, 2025
+Expires in 93 days
+•1 view•SharePoint App•HD
+•
+
+Documents
+
+Recordings
+Add a description to explain what this video is about.
+Transcript. Use arrow keys to navigate between transcript entries. Select an entry to navigate the media to the time of the entry. Use right arrow key and then press enter to edit the entry.
+
+
+Search
+
+AI-generated content may be incorrect
+
+Alfredo Faria (SAP LeanIX) started transcription
+AF
+
+Alfredo Faria (SAP LeanIX)
+0 minutes 3 seconds0:03
+Alfredo Faria (SAP LeanIX) 0 minutes 3 seconds
+And I'll start sharing today's my turn to.
+Alfredo Faria (SAP LeanIX) 0 minutes 8 seconds
+Present. So this is our Sprint review for Sprint four of Q2 of 2025.
+Alfredo Faria (SAP LeanIX) 0 minutes 17 seconds
+We have one major goal, which is to make 6 focused customers successful with Softb software discovery. This one got dropped.
+Alfredo Faria (SAP LeanIX) 0 minutes 28 seconds
+We already discussed it.
+Alfredo Faria (SAP LeanIX) 0 minutes 30 seconds
+So yeah, for this current Sprint.
+Alfredo Faria (SAP LeanIX) 0 minutes 34 seconds
+We did have the objective of migrate all tech stack customers.
+Alfredo Faria (SAP LeanIX) 0 minutes 38 seconds
+For the new catalog setup. So with integration with Aura API, we wanted to have license handling improvements on the S bomb view, which will be demoed by Zenya, right?
+Alfredo Faria (SAP LeanIX) 0 minutes 54 seconds
+And we will.
+Alfredo Faria (SAP LeanIX) 0 minutes 54 seconds
+We have started the multiinstance support for GitHub Enterprise integration.
+Alfredo Faria (SAP LeanIX) 1 minute 1 second
+Just the initial work, but there's already something that can be shown by Enrique.
+Alfredo Faria (SAP LeanIX) 1 minute 8 seconds
+And we achieved two major things.
+Alfredo Faria (SAP LeanIX) 1 minute 11 seconds
+So we have officially.
+Alfredo Faria (SAP LeanIX) 1 minute 15 seconds
+Made the GitHub integration on general availability, so kudos to everyone was a major milestone and we have migrated all tech stack customers to use the new API without major issues.
+Alfredo Faria (SAP LeanIX) 1 minute 31 seconds
+So yeah, good is for.
+Alfredo Faria (SAP LeanIX) 1 minute 35 seconds
+Mainly upper and Ahmed for that.
+Alfredo Faria (SAP LeanIX) 1 minute 41 seconds
+Yeah, very quick security update.
+Alfredo Faria (SAP LeanIX) 1 minute 43 seconds
+So no major security problems. We're keeping everything clean.
+Alfredo Faria (SAP LeanIX) 1 minute 49 seconds
+I mean, do you want to say anything about this? If not, we can jump into demos.
+
+Amin Lajmi (SAP LeanIX)
+1 minute 53 seconds1:53
+Amin Lajmi (SAP LeanIX) 1 minute 53 seconds
+Yeah, same thing as you just said.
+AF
+Alfredo Faria (SAP LeanIX)
+1 minute 57 seconds1:57
+Alfredo Faria (SAP LeanIX) 1 minute 57 seconds
+Then let's move and bend you.
+Alfredo Faria (SAP LeanIX) 2 minutes 1 second
+Can you have the first demo?
+BP
+Benedek Pakai (SAP LeanIX)
+2 minutes 4 seconds2:04
+Benedek Pakai (SAP LeanIX) 2 minutes 4 seconds
+Thank you, Alfredo.
+Benedek Pakai (SAP LeanIX) 2 minutes 5 seconds
+Let me share my screen.
+Benedek Pakai (SAP LeanIX) 2 minutes 7 seconds
+Hopefully now you see it.
+Benedek Pakai (SAP LeanIX) 2 minutes 11 seconds
+OK, so GitHub multi instance.
+Benedek Pakai (SAP LeanIX) 2 minutes 13 seconds
+Just a quick yeah, introduction for the whole epic. So, so far in our integration for GitHub enterprise, we only allowed one integration per workspace.
+Benedek Pakai (SAP LeanIX) 2 minutes 31 seconds
+But we want to be more flexible.
+Benedek Pakai (SAP LeanIX) 2 minutes 33 seconds
+So we decided that we will allow multiple integration instances for different GitHub enterprise instances.
+Benedek Pakai (SAP LeanIX) 2 minutes 44 seconds
+Yes, that's the background of the whole epic.
+Benedek Pakai (SAP LeanIX) 2 minutes 49 seconds
+And let's see. Yeah, what we did.
+Benedek Pakai (SAP LeanIX) 2 minutes 52 seconds
+So just a quick disclaimer.
+Benedek Pakai (SAP LeanIX) 2 minutes 54 seconds
+This is currently my local host.
+Benedek Pakai (SAP LeanIX) 2 minutes 58 seconds
+The puzzles are all over the place and not yet connected so.
+Benedek Pakai (SAP LeanIX) 3 minutes 3 seconds
+Some anomalies will happen.
+Benedek Pakai (SAP LeanIX) 3 minutes 7 seconds
+And it's more data what I'm showing you.
+Benedek Pakai (SAP LeanIX) 3 minutes 11 seconds
+I will try to talk my way out.
+Benedek Pakai (SAP LeanIX) 3 minutes 13 seconds
+Anything weird?
+Benedek Pakai (SAP LeanIX) 3 minutes 15 seconds
+OK.
+Benedek Pakai (SAP LeanIX) 3 minutes 16 seconds
+So First off, what we changed is creating a new integration so.
+Benedek Pakai (SAP LeanIX) 3 minutes 24 seconds
+Here we have introduced a new step where you can name your integration. If you want to.
+Benedek Pakai (SAP LeanIX) 3 minutes 31 seconds
+This is in order.
+Benedek Pakai (SAP LeanIX) 3 minutes 32 seconds
+Where that users can distinguish between.
+Benedek Pakai (SAP LeanIX) 3 minutes 36 seconds
+Their integration instances.
+Benedek Pakai (SAP LeanIX) 3 minutes 39 seconds
+Also, we don't allow.
+Benedek Pakai (SAP LeanIX) 3 minutes 42 seconds
+Duplicated names so the names have to be unique. To support this use case.
+Benedek Pakai (SAP LeanIX) 3 minutes 49 seconds
+Also, we will have restriction for this or we added already a restriction for the base URL. So you cannot add the base URL which is already.
+Benedek Pakai (SAP LeanIX) 4 minutes 2 seconds
+Present in another instance.
+Benedek Pakai (SAP LeanIX) 4 minutes 5 seconds
+So the idea is that you can Only Connect to separate instances with separate integrations.
+Benedek Pakai (SAP LeanIX) 4 minutes 13 seconds
+We do not allow multiple integrations connected to one instance.
+Benedek Pakai (SAP LeanIX) 4 minutes 20 seconds
+Yes.
+Benedek Pakai (SAP LeanIX) 4 minutes 22 seconds
+Of course, creation will fail.
+Benedek Pakai (SAP LeanIX) 4 minutes 26 seconds
+But that's OK.
+Benedek Pakai (SAP LeanIX) 4 minutes 29 seconds
+OK.
+Benedek Pakai (SAP LeanIX) 4 minutes 30 seconds
+So another change we had.
+Benedek Pakai (SAP LeanIX) 4 minutes 33 seconds
+Is in case you have multiple instances.
+Benedek Pakai (SAP LeanIX) 4 minutes 40 seconds
+We will show a listing page for the integration cards.
+Benedek Pakai (SAP LeanIX) 4 minutes 46 seconds
+Where you can see your instances and this page is also using polling so it is updated just like we do on the integrations page.
+Benedek Pakai (SAP LeanIX) 5 minutes 5 seconds
+And of course, if you only have one integration for user convenience, you will land on your integration instance right after clicking on the GitHub enterprise integration.
+Benedek Pakai (SAP LeanIX) 5 minutes 24 seconds
+Yes.
+Benedek Pakai (SAP LeanIX) 5 minutes 29 seconds
+I think, yeah, that's all I wanted to show you.
+Benedek Pakai (SAP LeanIX) 5 minutes 35 seconds
+Is there any questions?
+Benedek Pakai (SAP LeanIX) 5 minutes 40 seconds
+If not, I mean.
+AF
+Alfredo Faria (SAP LeanIX)
+5 minutes 40 seconds5:40
+Alfredo Faria (SAP LeanIX) 5 minutes 40 seconds
+Thank you.
+BP
+Benedek Pakai (SAP LeanIX)
+5 minutes 43 seconds5:43
+Benedek Pakai (SAP LeanIX) 5 minutes 43 seconds
+Giving it back. Thanks.
+AF
+Alfredo Faria (SAP LeanIX)
+5 minutes 45 seconds5:45
+Alfredo Faria (SAP LeanIX) 5 minutes 45 seconds
+Thank you, Ben.

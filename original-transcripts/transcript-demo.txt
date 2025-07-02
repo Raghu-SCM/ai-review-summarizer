@@ -1,0 +1,20 @@
+Facilitator: Alfredo Faria • Duration covered: ~6 min excerpt
+
+Theme	Highlights
+Planned Sprint Objectives	• Migrate all Tech Stack customers to the new catalogue set-up via Aura API.
+• Deliver license-handling improvements in the SBOM view (demo by Zenya).
+• Kick-off multi-instance support for GitHub Enterprise (demo by Benedek / Enrique).
+Achieved Milestones	• GitHub integration reached General Availability—now officially production-ready.
+• 100 % of Tech Stack customers migrated to the new API with no major issues.
+• Initial groundwork for GitHub Enterprise multi-instance architecture completed.
+Security & Quality	Amin reported no critical security findings this sprint; environment remains clean.
+Demo – GitHub Enterprise Multi-Instance (Benedek)	• Users can create multiple GitHub integrations per workspace.
+• Naming step added; integration names must be unique.
+• Base-URL collision guard prevents connecting the same GitHub instance twice.
+• New listing page shows all configured instances and live-polls status.
+• If only one instance exists, users are routed directly to it for convenience.
+Dropped / Deferred	The broader goal to “make six focused customers successful with SoftB Software Discovery” was removed from the sprint scope.
+Kudos	• Team celebration for GA launch (special mention: Upper, Ahmed).
+
+Overall takeaway:
+The team hit its two biggest targets—GA for the GitHub integration and the full customer migration—while laying the technical foundation for multi-instance GitHub Enterprise. No security setbacks were reported, and new SBOM-license features are queued for demo next.
