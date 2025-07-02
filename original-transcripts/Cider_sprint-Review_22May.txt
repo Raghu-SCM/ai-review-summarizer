@@ -1,0 +1,160 @@
+
+Pavan Madiraju (SAP LeanIX) started transcription
+
+Vincent Groves (SAP LeanIX)
+0 minutes 3 seconds0:03
+Vincent Groves (SAP LeanIX) 0 minutes 3 seconds
+Good, then.
+Vincent Groves (SAP LeanIX) 0 minutes 5 seconds
+Thanks, pavan.
+Vincent Groves (SAP LeanIX) 0 minutes 6 seconds
+Hi, Ron.
+Vincent Groves (SAP LeanIX) 0 minutes 7 seconds
+Teams either here. This time I've got the the owner to present.
+Vincent Groves (SAP LeanIX) 0 minutes 11 seconds
+Can you see the screen?
+Vincent Groves (SAP LeanIX) 0 minutes 12 seconds
+Is it big enough or?
+Vincent Groves (SAP LeanIX) 0 minutes 15 seconds
+My new favorite question after doing 2 webinars this week.
+Vincent Groves (SAP LeanIX) 0 minutes 19 seconds
+So yeah, I mean, the objectives haven't changed.
+Vincent Groves (SAP LeanIX) 0 minutes 22 seconds
+And if you're not suffering from dementia, you might remember them from 2 weeks back.
+Vincent Groves (SAP LeanIX) 0 minutes 25 seconds
+So I won't read over them.
+Ragupathi Duraisami (SAP LeanIX) 25 minutes 5 seconds
+So they are looking for this.
+Ragupathi Duraisami (SAP LeanIX) 25 minutes 7 seconds
+C Bomb supporters will not, if not immediately.
+Ragupathi Duraisami (SAP LeanIX) 25 minutes 9 seconds
+But they they wanted to start with it soon. So this is one of the other things possibly we have to pick it up, Vasil. Further on top of S bomb. And also we are working for some S bomb requirements from them as well, which is.
+Ragupathi Duraisami (SAP LeanIX) 25 minutes 24 seconds
+Yeah, but.
+Ragupathi Duraisami (SAP LeanIX) 25 minutes 26 seconds
+Deviating from standards, so to say, but we are looking at it for their as bombs and for wires at then they are do they are prospect.
+Ragupathi Duraisami (SAP LeanIX) 25 minutes 34 seconds
+Currently they are an APM customer trial in TRC now and yeah, they made use of our GitHub enterprise self hosted integration including S Bomb Discovery with it and also providing some nice feedbacks and catching some bugs and so on.
+Ragupathi Duraisami (SAP LeanIX) 25 minutes 50 seconds
+So hope they would convert us a customer soon.
+Ragupathi Duraisami (SAP LeanIX) 25 minutes 53 seconds
+And after SAP this is the real customer who is really doing this S bomb discovery.
+Ragupathi Duraisami (SAP LeanIX) 25 minutes 59 seconds
+And hope they will do the S bomb discovery right from our getup integration directly rather than using our APIs.
+Ragupathi Duraisami (SAP LeanIX) 26 minutes 7 seconds
+So yeah, looking forward to it.
+
+Vincent Groves (SAP LeanIX)
+26 minutes 9 seconds26:09
+Vincent Groves (SAP LeanIX) 26 minutes 9 seconds
+Cool. Thanks Raghu also for the great work in the in the field. So I'm not gonna give myself kudos or someone else who put it there can do it.
+Vincent Groves (SAP LeanIX) 27 minutes 11 seconds
+You should prefer logs over over reading books, so I think that's that's really good to see and I think, yeah, I saw a very strong collaboration between teams in this tribe.
+Vincent Groves (SAP LeanIX) 27 minutes 22 seconds
+So Ahmed and the whole gang of explore aura and Helios, both on a technical level, but also making sure that the knowledge of what is a tech stack.
+Vincent Groves (SAP LeanIX) 27 minutes 33 seconds
+How do you research a tech stack?
+Vincent Groves (SAP LeanIX) 27 minutes 36 seconds
+Was really well organized and I think I saw a lot of satisfied faces.
+Vincent Groves (SAP LeanIX) 27 minutes 42 seconds
+And more comforting.
+Vincent Groves (SAP LeanIX) 27 minutes 43 seconds
+Faces after this cross stripe knowledge transfer.
+Vincent Groves (SAP LeanIX) 27 minutes 48 seconds
+So yeah, big thanks to the two of you and also the collaborating hands of the other team. So yeah.
+Vincent Groves (SAP LeanIX) 27 minutes 56 seconds
+It does make a different difference I believe. So with that, I think we are one minute short.
+Vincent Groves (SAP LeanIX) 28 minutes 1 second
+So if there's anyone who wants to tell a joke or have some parting thoughts or Q&A can can do that now.
+MA
+
+Mike Akl (SAP LeanIX)
+28 minutes 11 seconds28:11
+Mike Akl (SAP LeanIX) 28 minutes 11 seconds
+With those to you, Vince.
+AF
+
+Alfredo Faria (SAP LeanIX)
+28 minutes 11 seconds28:11
+Alfredo Faria (SAP LeanIX) 28 minutes 11 seconds
+Just.
+
+Vincent Groves (SAP LeanIX)
+28 minutes 13 seconds28:13
+Vincent Groves (SAP LeanIX) 28 minutes 13 seconds
+Yeah. Yeah. Cheers.
+Vincent Groves (SAP LeanIX) 28 minutes 14 seconds
+Thanks for reading it out.
+Vincent Groves (SAP LeanIX) 28 minutes 16 seconds
+I'll take that. I'll take that. Cheers.
+AF
+
+Alfredo Faria (SAP LeanIX)
+28 minutes 20 seconds28:20
+Alfredo Faria (SAP LeanIX) 28 minutes 20 seconds
+Just a quick kudos for jenya for organizing the the innovation days because I know that's a lot of work and it's a lot of pressure.
+
+Vincent Groves (SAP LeanIX)
+28 minutes 21 seconds28:21
+Vincent Groves (SAP LeanIX) 28 minutes 21 seconds
+Yep.
+AF
+
+Alfredo Faria (SAP LeanIX)
+28 minutes 29 seconds28:29
+Alfredo Faria (SAP LeanIX) 28 minutes 29 seconds
+So yeah, thank you for that.
+
+Vincent Groves (SAP LeanIX)
+28 minutes 32 seconds28:32
+Vincent Groves (SAP LeanIX) 28 minutes 32 seconds
+True. Good one.
+Vincent Groves (SAP LeanIX) 28 minutes 36 seconds
+Yeah, we're still waiting for the video, then switch video.
+AA
+
+Ahmed Ali (SAP LeanIX)
+28 minutes 41 seconds28:41
+Ahmed Ali (SAP LeanIX) 28 minutes 41 seconds
+No, we got it.
+Ahmed Ali (SAP LeanIX) 28 minutes 42 seconds
+There is a there's actually a course that it have to do, and that course is.
+GA
+George Andrinopoulos (SAP LeanIX)
+28 minutes 44 seconds28:44
+George Andrinopoulos (SAP LeanIX) 28 minutes 44 seconds
+Presentation.
+
+Vincent Groves (SAP LeanIX)
+28 minutes 46 seconds28:46
+Vincent Groves (SAP LeanIX) 28 minutes 46 seconds
+I mean the video from the enablement session.
+GA
+George Andrinopoulos (SAP LeanIX)
+28 minutes 49 seconds28:49
+George Andrinopoulos (SAP LeanIX) 28 minutes 49 seconds
+Yep.
+
+Vincent Groves (SAP LeanIX)
+28 minutes 51 seconds28:51
+Vincent Groves (SAP LeanIX) 28 minutes 51 seconds
+Yeah, hope it reaches you.
+Vincent Groves (SAP LeanIX) 28 minutes 53 seconds
+It's out of my hands now.
+Vincent Groves (SAP LeanIX) 28 minutes 55 seconds
+But yeah, seems like you got it.
+AA
+
+Ahmed Ali (SAP LeanIX)
+28 minutes 58 seconds28:58
+Ahmed Ali (SAP LeanIX) 28 minutes 58 seconds
+Founded there was a course in the learning that you have to take and it just contains the video basically.
+
+Vincent Groves (SAP LeanIX)
+29 minutes 4 seconds29:04
+Vincent Groves (SAP LeanIX) 29 minutes 4 seconds
+Perfect. Yeah. Then I think they did a great job in enablement, so kudos to them as well.
+Vincent Groves (SAP LeanIX) 29 minutes 11 seconds
+And I think that it stopped the recording now before I do something stupid.
+
+Vincent Groves (SAP LeanIX) stopped transcription
